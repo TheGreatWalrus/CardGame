@@ -1,0 +1,480 @@
+Aero Blade
+Magic
+1300
+3 Damage.  Search your deck for an Agi card and place it in your hand.  Shuffle your deck.
+Aero Force
+Magic
+0310
+3 Damage.  Search your deck for a Spr card and place it in your hand.  Shuffle your deck.
+Aero Slam
+Magic
+0301
+3 Damage. Search your deck for a Mgt card and place it in your hand.  Shuffle your deck.
+Arc Whip
+Magic
+0004
+3 Damage. You may target up to 3 players with this skill
+Annoy
+Magic
+0001
+1 Damage. Target randomly discards 1 card
+Bash
+Physical
+0040
+7 Damage
+Blast
+Magic
+0200
+4 Damage.
+Bleed
+Physical
+2000
+5X Damage.  Remove all poison counters from the target.  X is equal to the number of counters removed.
+Envenom
+Physical
+2000
+1 Damage.  Place 1 poison counter on the target. Aim - Place 3 poison counters on the target instead.
+Bloodbath
+Physical
+0010
+X Damage.  You, and each other allied player may pay as much Mgt and Agi as you want.  X is equal to the total energy paid.
+Body Slam
+Physical
+0030
+2X Damage.  X is equal to your armor.
+Bola
+Physical
+0200
+3 Damage.  You may target up to 2 players with this skill
+Bolt of Energy
+Magic
+1003
+4 damage.  Gain 3 agi.
+Bolt of Lightning
+Magic
+0103
+3 Damage. Gain 3 Int.
+Bolt of Thunder
+Magic
+0013
+3 Damage.  Gain 3 Mgt.
+Brain Blast
+Magic
+0300
+3X Damage.  Discard any number of cards.  X is equal to the number of cards discarded in this way.
+Brain Drain
+Magic
+0200
+0 Damage.  Target player randomly discards 1 card.  You may choose up to 3 targets for this skill.
+Break
+Physical
+0050
+1 Damage.  Sunder 2.
+Brutal Assault
+Physical
+0040
+4 Damage.  Sunder 1.
+Calculated Slash
+Physical
+0130
+6 Damage.  Target randomly discards 1 card.
+Casual Shot
+Physical
+1000
+3 Damage.
+Catalyze Poisons
+Physical
+0300
+3X Damage.  X is equal to the number of poison counters on the target.
+Colossal Strike
+Physical
+0070
+10
+Compromise
+Magic
+0200
+1 Damage.  Discard 1 card.  Target randomly discards 2 cards
+Corrupting Toxin
+Physical
+0300
+Double the number of poison counters on the target.
+Crumple Armor
+Magic
+0200
+2X Damage.  X is equal to the target's armor.  This damage is unaffected by armor.
+Cull the Empty Minded
+Magic
+0300
+12 Damage.  This skill may only target players with no cards in their hand.
+Cut
+Physical
+2000
+4 Damage.
+Desperate Attack
+Physical
+0030
+3 + 2X Damage.  X is equal to the amount of health you are below 10.
+Desperate Shot
+Magic
+2000
+3 Damage.  Aim - Crit 4
+Divine Inspiration
+Magic
+0102
+2X Damage.  X is equal to the number of cards in the target's hand.
+Energy Beam
+Magic
+0003
+4 Damage. Empower 1.
+Exploit Ignorance
+Magic
+0200
+2X Damage.  X is equal to the number of cards in your hand minus the number of cards in the target's hand.
+Finishing Blow
+Physical
+3000
+4X Damage.  X is equal to the number of skills you have played this turn.
+Fireball
+Magic
+0003
+5 Damage.
+Firebeam
+Magic
+0004
+4 Damage.  Empower 2.
+Fluid Strike
+Physical
+2000
+3 Damage.  Gain 1 action.
+Force of the Otherworldly
+Magic
+0001
+X Damage.  You and each other allied player may pay as much Spr and Int as you want.  X is equal to the total amount of energy paid.
+Fortify
+Magic
+0022
+Heal target for 4.  Target gains 1 armor
+Gas Bomb
+Physical
+0300
+1 Damage.  Alchemy 3.  Place 2 poison counters on the target.
+Plague Bomb
+Physical
+0200
+0 Damage.  Place 1 poison counter on target opponent.  You may target up to 3 players with this skill.
+Gift of Life
+Magic
+0005
+Target gains 14 health.
+Gouge
+Physical
+2000
+2 Damage.  Crit 5.  If this attack crits, it deals 8 damage.
+Guardian's Grace
+Magic
+0004
+Target gains 10 health.
+Harvest Insecurities
+Magic
+0100
+X Damage.  X is equal to the number of cards in your hand minus the number in the target's hand.
+Heal
+Magic
+0003
+Target gains 7 health.
+Humiliating Attack
+Physical
+0030
+Target player may target only you with skills next turn.
+Icicle Lance
+Magic
+0100
+3 Damage
+Impale
+Physical
+0030
+2X damage.  X is equal to your attack.
+Inspire
+Magic
+0202
+Target gains 4 health and draws 1 card.
+Inpiring Attack
+Physical
+0100
+2 Damage. Draw 1 card.
+Jab
+Physical
+1000
+3 Damage
+Lead Arrow
+Physical
+2020
+4 Damage.  Sunder 1.
+Lick with Lightning
+Magic
+0003
+3 Damage.  Gain 1 energy of any type.
+Lifespike
+Magic
+0004
+10 Damage.  After damage is dealt, target gains 4 health.
+Magicburn
+Magic
+0005
+X Damage.  Target player loses all energy.  X is equal to the number of energies lost in this way.
+Malicious Strike
+Physical
+2000
+3 Damage.  Crit 5.
+Merciless Onslaught
+Physical
+0030
+4 + X Damage.  X is equal to the target's armor.
+Paralyzing Punch
+Physical
+2000
+2 Damage.  Target loses 1 action on their next turn.
+Pilfer Ponderings
+Magic
+2200
+0 Damage.  Look at target opponent's hand.  Take 1 card from it and add it to your hand.
+Ping
+Magic
+0100
+3 Damage.
+Pitiless Blow
+Physical
+0030
+5 Damage. Deals double damage to targets with 0 armor.
+Poison Shot
+Physical
+0100
+1 Damage. Alchemy 1.  Place 1 poison counter on the target.
+Poisoned Arrow
+Physical
+1000
+1 Damage.  Place 1 poison counter on the target.
+Precise Shot
+Physical
+1000
+2 Damage.  Aim - this attack deals 3 more damage.
+Prod Mind
+Magic
+0200
+3 Damage. Draw 1 card.
+Quick Attack
+Physical
+1000
+2 Damage.  Gain 1 action.
+Rains of Glory
+Magic
+0004
+Up to 3 target players gain 5 health.
+Rejuvenating Strike
+Magic
+0003
+2 Damage.  Gain 3 Spr.
+Rejuvinate
+Magic
+2002
+Target gains 4 Health and 1 action.
+Rest
+Magic
+0005
+All players lose all Energy.
+Righteous Blow
+Physical
+0032
+7 Damage. Unstoppable.
+Shank
+Physical
+2000
+2 Damage.  Crit 5.  Gain 1 action.
+Shield Breaker
+Physical
+2040
+Sunder 3.
+Sinister Attack
+Physical
+1000
+2 Damage.  Crit 5.
+Slash
+Physical
+0030
+6 Damage.
+Slit Throught
+Physical
+1000
+1 Damage.  Crit 5.  If this attack crits, it deals 6 damage.
+Smash
+Physical
+0050
+8 Damage.
+Snipe
+Physical
+2000
+3 Damage.  Aim - This attack deals 4 more damage.
+Solar Blast
+Magic
+0005
+5 Damage.  Empower 3.
+Soulfire
+Magic
+0007
+4 Damage.  Empower 5.
+Spiritual Slash
+Physical
+0031
+6 Damage. Gain 3 Health.
+Spritely Shot
+Physical
+2000
+3 Damage.  Gain 1 Action
+Starbreaker
+Magic
+0005
+7 Damage.
+Steal Strength
+Magic
+2010
+Target opponent loses 1 attack and you gain 1 attack.
+Steal Thoughts
+Magic
+2100
+Target opponent randomly discards 2 cards and you draw 2 cards.
+Steal Will
+Magic
+2001
+Target opponent loses 2 energy of the type of your choice, and you gain 2 agi.
+Stealthy Slash
+Physical
+1030
+8 Damage.
+Suffocating Plate
+Magic
+0100
+X Damage.  X is equal to the target's armor.  This damage is unaffected by armor.
+Sunburst
+Magic
+0004
+6 Damage.
+Sundering Blow
+Physical
+0030
+3 Damage.  Sunder 1.
+Telekinetic Blast
+Magic
+0200
+4 Damage.
+Torture Sanity
+Magic
+0200
+Discard X cards.  Target opponent discards X cards.
+Touch up
+Magic
+0002
+Target gains 5 health.
+Trigger Lapse
+Magic
+0200
+Target randomly discards 3 cards.  Target draws 1 card.
+Unrelenting Fire
+Magic
+0004
+4 Damage.  Unstoppable
+Unyielding Strike
+Physical
+0030
+4 Damage. Unstoppable
+Viper's Bite
+Physical
+3000
+1 Damage.  Place 2 Poison counters on the target
+Warm Up
+Magic
+0030
+2 damage.  Gain 1 Attack.
+Dodge
+Trap
+5000
+Trigger: You become the target of any skill.  Counter this skill.
+Lucky Dodge
+Trap
+2000
+Trigger: You become the target of any skill.  Roll a die.  If the result is a 4 of higher, counter this skill.
+Sustain
+Trap
+0030
+Trigger: You become the target of any skill.  You take 5 damage less for this skill.
+Poison Trap
+Trap
+2000
+Trigger: You become the target of any skill.  Place 2 poison counters on the attacker.
+Sidestep
+Trap
+1000
+Trigger: You become the target of a skill which would deal 2 damage or less.  Counter this skill.
+I'll Take That
+Trap
+1100
+Trigger: An opponent becomes the target of a skill.  You become the target of this skill.
+Deflect
+Trap
+0300
+Trigger: You become the target of a physical skill.  Counter this skill.
+Mental Hiccup
+Trap
+0100
+Trigger: You become the target of any skill.  Counter this skill unless the attacker discards a card.
+Redirect
+Trap
+0500
+Trigger: You become the target of a magic skill.  Choose a new target for this skill.
+Parry
+Trap
+0030
+Trigger: You become the target of a physical skill.  Counter this skill.
+Intercept
+Trap
+0010
+Trigger: An ally becomes the target of a skill.  You become the target of this skill.
+Counterattack
+Trap
+0020
+Trigger: You become the target of a physical skill.  Deal 6 damage to the attacker.
+Pain to Anger
+Trap
+0020
+Trigger: You are dealt damage by a skill.  Gain Mgt equal to the amount of damage dealt.
+Iron Will
+Trap
+0011
+Trigger: A skill of yours becomes countered.  Counter the counter.
+Dismiss
+Trap
+0003
+Trigger: You become the target of a magic skill.  Counter this skill.
+Fragile Forcefield
+Trap
+0003
+Trigger: You become the target of any skill.  Counter this skill unless the attacker pays 3 energy.
+Battle of Wills
+Trap
+0002
+Trigger: You become the target of any skill.  Your opponent pays X Energy.  If you pay X or more Energy, counter this skill.
+Disregard
+Trap
+0002
+Trigger: You become the target of a skill.  Counter this skill.
+Absorb Magics
+Trap
+0005
+Trigger: You are dealt damage from a magic skill.  Gain health equal to twice the damage dealt.
+Battle of Wits
+Trap
+0200
+Trigger: You become the target of a skill.  Your opponent discards X cards.  If you discard X or more cards, counter this skill.
+Intervene
+Trap
+0050
+Trigger: An ally becomes the target of a physical skill.  Counter this attack.
