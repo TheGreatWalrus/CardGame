@@ -478,3 +478,14 @@ Intervene
 Trap
 0050
 Trigger: An ally becomes the target of a physical skill.  Counter this attack.
+Center of Attention
+Ability
+0040
+Each opponent may target only you with skills next turn.
+Dredge Depths
+Ability
+0400
+Search your deck for a card and add it to your hand.  Then shuffle your deck.
+Focus Energies
+Ability
+000X
